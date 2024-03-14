@@ -9,7 +9,7 @@
     "pageId": "Page1",
     "inputs": {},
     "jsonPathKeys": [],
-    "isValid": false,
+    "isValid": true,
     "invalids": [
       "Module instance does not have a valid module reference in the workspace. Please update the existing package \"New Untitled Package 1 W. publish\" with module JSModule1 to resolve this issue."
     ],
